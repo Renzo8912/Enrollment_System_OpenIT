@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enrollment System Dashboard</title>
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <nav class="navbar">
+      <a class="nav-brand" href="#">🎓 Open iT University — Enrollment System</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    
+    <div class="stats-bar" id="stats-bar">
+      <div class="stat-item">
+        <span class="stat-value" id="stat-total">-</span>
+        <span class="stat-label">Total Student</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-item">
+        <span class="stat-value" id="stat-enrolled">-</span>
+        <span class="stat-label">Enrolled</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-item">
+        <span class="stat-value" id="stat-programs">-</span>
+        <span class="stat-label">Programs</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-item">
+        <span class="stat-value" id="stat-avg-grade">-</span>
+        <span class="stat-label">Avg Grade</span>
+      </div>
+    </div>
+
+    <div class="controls-bar">
+      <div class="search-wrapper">
+        <input type="search" id="search-input" placeholder="🔍 Search by name...">
+      </div>
+      <div class="filter-wrapper">
+        <select id="program-filter">
+          <option value="">All Programs</option>
+        </select>
+        <select id="year-filter">
+          <option value="">All Years</option>
+          <option value="1">Year 1</option>
+          <option value="2">Year 2</option>
+          <option value="3">Year 3</option>
+          <option value="4">Year 4</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="table-container">
+      <table id="students-table">
+        <thead>
+          <tr>
+            <th>NAME</th>
+            <th>YEAR</th>
+            <th>GENDER</th>
+            <th>PROGRAM</th>
+            <th>SECTION</th>
+            <th>AVG GRADE</th>
+            <th>STATUS</th>
+          </tr>
+        </thead>
+        <tbody id="table-body">
+        </tbody>
+      </table>
+      
+      <div id="spinner" class="spinner-container">
+        <div class="spinner-ring"></div>
+      </div>
+      
+      <div id="empty-state" class="empty-state" style="display: none;">
+        <div class="empty-icon">📭</div>
+        <h3>No students found</h3>
+        <p>Try adjusting your search or filters.</p>
+      </div>
+    </div>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>2026 <strong>Open iT University</strong> · This is Built on Open iT Summer Bootcamp</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
