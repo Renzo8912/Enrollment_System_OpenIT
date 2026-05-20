@@ -1,0 +1,373 @@
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.csproj.AssemblyReference.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.AssemblyInfoInputs.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.AssemblyInfo.cs
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.csproj.CoreCompileInputs.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.exe
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.deps.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.runtimeconfig.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.pdb
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Humanizer.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Npgsql.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\StudentE.5AB0ED58.Up2Date
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\refint\StudentEnrollment.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.pdb
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.genruntimeconfig.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\ref\StudentEnrollment.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.staticwebassets.runtime.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.staticwebassets.endpoints.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\scopedcss\bundle\StudentEnrollment.styles.css
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\compressed\7kzf1pytui-{0}-yhq951jw98-yhq951jw98.gz
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\compressed\652c91vcm1-{0}-nke4z6mbnh-nke4z6mbnh.gz
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_6\StudentEnrollment\obj\Debug\net10.0\compressed\svcevnd99f-{0}-l3tffmyvh1-l3tffmyvh1.gz
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.csproj.AssemblyReference.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.AssemblyInfoInputs.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.AssemblyInfo.cs
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.csproj.CoreCompileInputs.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\refint\StudentEnrollment.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.pdb
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ClientApp\package-lock.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ClientApp\package.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.staticwebassets.runtime.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.staticwebassets.endpoints.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.exe
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.deps.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.runtimeconfig.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.pdb
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Humanizer.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Npgsql.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\scopedcss\bundle\StudentEnrollment.styles.css
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentE.5AB0ED58.Up2Date
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.genruntimeconfig.cache
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\ref\StudentEnrollment.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\compressed\wajhcpbm5u-{0}-cero92vev7-cero92vev7.gz
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\compressed\73chbcpur4-{0}-180dmtdpho-180dmtdpho.gz
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\compressed\vxvvdpbmwn-{0}-g3h7a9wx5y-g3h7a9wx5y.gz
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\compressed\czei64mcw8-{0}-qo41n86cme-qo41n86cme.gz
+C:\Users\CL3\Downloads\PITAHIN_OpenIT_SummerBootcamp_2026\Day_10\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\compressed\svcevnd99f-{0}-ktnkf4ciml-ktnkf4ciml.gz
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ClientApp\package-lock.json
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ClientApp\package.json
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.staticwebassets.runtime.json
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.staticwebassets.endpoints.json
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.exe
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.deps.json
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.runtimeconfig.json
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\StudentEnrollment.pdb
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Humanizer.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Npgsql.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.csproj.AssemblyReference.cache
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.AssemblyInfoInputs.cache
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.AssemblyInfo.cs
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\scopedcss\bundle\StudentEnrollment.styles.css
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\compressed\349iy58h3r-{0}-a3wo7b3usg-a3wo7b3usg.gz
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\compressed\wajhcpbm5u-{0}-cero92vev7-cero92vev7.gz
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\compressed\73chbcpur4-{0}-180dmtdpho-180dmtdpho.gz
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\compressed\vxvvdpbmwn-{0}-g3h7a9wx5y-g3h7a9wx5y.gz
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\compressed\svcevnd99f-{0}-qhjjz50jow-qhjjz50jow.gz
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentE.5AB0ED58.Up2Date
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\refint\StudentEnrollment.dll
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.pdb
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\StudentEnrollment.genruntimeconfig.cache
+C:\Users\TUF\Downloads\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 11\Pitahin_ReneLorenzo - Day 10\StudentEnrollment\obj\Debug\net10.0\ref\StudentEnrollment.dll
